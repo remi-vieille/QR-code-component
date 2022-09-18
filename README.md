@@ -41,7 +41,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Built with
 
 - HTML5
-- CSS
 
 ### What I learned
 
@@ -79,6 +78,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Vercel](https://qr-code-component-nine-zeta.vercel.app/)
+- Frontend Mentor - [@remi-vieille](https://www.frontendmentor.io/profile/remi-vieille)
 - Twitter - [@VieilleRemi](https://twitter.com/VieilleRemi)
